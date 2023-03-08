@@ -5,3 +5,4 @@ Task 3 - Write a script that displays current directory contents in a long forma
 Task 4 - Write a script that displays current directory contents, including hidden files.
 Task 5 - Write a script that displays current directory contents, in long format, with user and group IDs displayed numerically.
 Task 6 - Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+Task 7 - Write a script that moves the file betty from /tmp/ to /tmp/my_first_directory.
