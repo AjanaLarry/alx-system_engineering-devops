@@ -11,3 +11,4 @@ Task 9 - Write a script that deletes the directory my_first_directory that is in
 Task 10 - Write a script that changes the working directory to the previous one.
 Task 11 - Write a script that lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 Task 12 - Write a script that prints the type of the file named iamafile.
+Task 13 - Create a symbolic link to /bin/ls, named __ls__ .
