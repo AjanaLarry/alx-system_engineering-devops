@@ -3,3 +3,4 @@ Task 1 - Write a script that displays the contents list of your current director
 Task 2 - Write a script that changes the working directory to the user’s home directory.
 Task 3 - Write a script that displays current directory contents in a long format.
 Task 4 - Write a script that displays current directory contents, including hidden files.
+Task 5 - Write a script that displays current directory contents, in long format, with user and group IDs displayed numerically.
