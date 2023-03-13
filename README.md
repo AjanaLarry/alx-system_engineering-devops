@@ -1,1 +1,1 @@
-### This repo contains of the ALX 0x00. Shell project.
+#### This repo contains all my ALX 0x00. Shell project.
