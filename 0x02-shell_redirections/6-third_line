@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 0x00-shell_basics/README.md | tail +3
+head -3 iacta | tail +3
